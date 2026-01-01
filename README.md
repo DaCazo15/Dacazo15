@@ -6,6 +6,9 @@
 </div>
 
 ## 📂 Proyectos destacados
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="200" align="right">
+<br><br> 
+
 -  [Sistema de Monitoreo Acuático](https://github.com/DaCazo15/Sistema-Inteligente-de-Monitoreo-Acuatico-ESP32)  
 -  [Selector de PET (IA)](https://github.com/DaCazo15/Selector-de-PET)  
 -  Generador de Reportes de Multas (CustomTkinter + BD)
@@ -14,17 +17,12 @@
 
 ## 🌐 Contacto
 - 📧 Email: dcazorla.0190@gmail.com  
-- 🔗 GitHub: [DaCazo15](https://github.com/DaCazo15)  
+- 🔗 GitHub: [DaCazo15](https://github.com/DaCazo15)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/DaCazo15">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaCazo15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaCazo15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## 🌐 Conecta conmigo
-- GitHub: [DaCazo15](https://github.com/DaCazo15)  
-- Email: *dcazorla.0190@gmail.com*
