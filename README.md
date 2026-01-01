@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href="https://github.com/DaCazo15">DaCazo15</a></h2>
+<h2 align="center">Hi, I'm <a href="https://github.com/DaCazo15">DaCazo15</a></h2>
 
 ![Aditya Vikram Singh Banner](https://i.postimg.cc/hGZFZfCN/Da_Cazo15_banner.png)
 
