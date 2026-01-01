@@ -34,3 +34,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaCazo15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 🎯 Objetivo actual
+Mejorar mi nivel actual de VueJS y explorar más sobre Data Science y Machine Learning.
