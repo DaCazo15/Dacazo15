@@ -36,4 +36,4 @@
 </p>
 
 ## 🎯 Objetivo actual
-Mejorar mi nivel actual de VueJS y explorar más sobre Data Science y Machine Learning.
+Mejorar mi nivel actual de VueJS y explorar más sobre Data Science y Machine Learning en Python.
