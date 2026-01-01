@@ -8,11 +8,16 @@
 </div>
 
 ## 📂 Proyectos destacados
-- 🔹 **Sistema de Monitoreo Acuático (ESP32 + Python + Web)**  
-- 🔹 **Selector de PET (IA con Keras/TensorFlow)**  
-- 🔹 **Generador de Reportes de Multas (CustomTkinter + BD)**
-- 🔹 **Consulta Climática (Vue.js + API OpenWeatherMap)**  
-- 🔹 **Al Cambio (Vue.js + API)**
+-  [Sistema de Monitoreo Acuático](https://github.com/DaCazo15/Sistema-Inteligente-de-Monitoreo-Acuatico-ESP32)  
+-  [Selector de PET (IA)](https://github.com/DaCazo15/Selector-de-PET)  
+-  Generador de Reportes de Multas (CustomTkinter + BD)
+-  [Consulta Climática (Vue.js + API OpenWeatherMap)](https://github.com/DaCazo15/Vue-Weather-App)
+-  Al Cambio (Vue.js + API)
+
+## 🌐 Contacto
+- 📧 Email: dcazorla.0190@gmail.com  
+- 🔗 GitHub: [DaCazo15](https://github.com/DaCazo15)  
+- 🔗 LinkedIn: *(tu enlace aquí)*
 
 ### ⚙️ &nbsp;GitHub Analytics
 
