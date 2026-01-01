@@ -15,7 +15,6 @@
 ## 🌐 Contacto
 - 📧 Email: dcazorla.0190@gmail.com  
 - 🔗 GitHub: [DaCazo15](https://github.com/DaCazo15)  
-- 🔗 LinkedIn: *(tu enlace aquí)*
 
 ### ⚙️ &nbsp;GitHub Analytics
 
