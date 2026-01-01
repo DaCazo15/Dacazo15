@@ -11,10 +11,11 @@
 
 -  [Sistema de Monitoreo Acuático](https://github.com/DaCazo15/Sistema-Inteligente-de-Monitoreo-Acuatico-ESP32)  
 -  [Selector de PET (IA)](https://github.com/DaCazo15/Selector-de-PET)  
--  Generador de Reportes de Multas (CustomTkinter + BD)
+-  [Generador de Reportes de Multas (CustomTkinter + BD)](https://github.com/DaCazo15/CustomTkinter/tree/main/Multas-CTK---Generador-de-Reportes)
 -  [Consulta Climática (Vue.js + API OpenWeatherMap)](https://github.com/DaCazo15/Vue-Weather-App)
--  Al Cambio (Vue.js + API)
-
+-  [Al Cambio (Vue.js + API)](https://github.com/DaCazo15/alParalelo)
+-  [Cotiza Crypto](https://github.com/DaCazo15/cotiza-cripto)
+  
 ## 🚀 Tecnologías
 - **Frontend:** Vue.js, Vite, Axios, TailwindCSS  
 - **Backend:** Python
@@ -37,4 +38,4 @@
 
 ## 🎯 Objetivos actuales
 - Mejorar mi nivel actual de **Vue.js**  
-- Explorar más sobre **Data Science** y **Machine Learning en Python**
+- Explorar más sobre **Data Science** y **Machine Learning** en **Python**
