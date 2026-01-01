@@ -15,9 +15,17 @@
 -  [Consulta Climática (Vue.js + API OpenWeatherMap)](https://github.com/DaCazo15/Vue-Weather-App)
 -  Al Cambio (Vue.js + API)
 
+## 🚀 Tecnologías
+- **Frontend:** Vue.js, Vite, Axios, TailwindCSS  
+- **Backend:** Python
+- **Bases de datos:** MySQL, SQLite  
+- **GUIs:** Tkinter, CustomTkinter, Flet  
+- **IoT:** ESP32, comunicación serial  
+- **IA/ML:** Keras, TensorFlow, scikit-learn  
+
 ## 🌐 Contacto
-- 📧 Email: dcazorla.0190@gmail.com  
-- 🔗 GitHub: [DaCazo15](https://github.com/DaCazo15)
+- 📧 **Email:** dcazorla.0190@gmail.com  
+- 🔗 **GitHub:** [DaCazo15](https://github.com/DaCazo15)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
